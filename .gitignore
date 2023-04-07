@@ -3,5 +3,3 @@ node_modules/
 allure-report/
 allure-results/
 _results_/
-
-wdio.conf.js
