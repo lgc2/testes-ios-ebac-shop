@@ -1,4 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Fri Jun 16 22:05:05 UTC 2023","Fri Jun 16 22:05:12 UTC 2023","7593","","Search products","","Search products","should search by product name","should search by product name",""
-"passed","Fri Jun 16 22:05:37 UTC 2023","Fri Jun 16 22:05:49 UTC 2023","11809","","Product Buy","","Product Buy","should buy a product","should buy a product",""
-"passed","Fri Jun 16 22:04:34 UTC 2023","Fri Jun 16 22:04:40 UTC 2023","6022","","Products List","","Products List","should list products","should list products",""
